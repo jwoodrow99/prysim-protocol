@@ -1,0 +1,29 @@
+{
+  "name": "prysim-protocol",
+  "version": "1.0.0",
+  "description": "Prysim key exchange protocol based on Signal.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwoodrow99/prysim-protocol.git"
+  },
+  "keywords": [
+    "encryption",
+    "key",
+    "protocol",
+    "diffie",
+    "hellman",
+    "x3dh",
+    "elliptic",
+    "curve"
+  ],
+  "author": "Jack Woodrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwoodrow99/prysim-protocol/issues"
+  },
+  "homepage": "https://github.com/jwoodrow99/prysim-protocol#readme"
+}
